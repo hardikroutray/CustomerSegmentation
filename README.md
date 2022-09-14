@@ -1,4 +1,4 @@
-Using credit info of customer data, we attempt to cluster customers for targeted recommendations or advertisement. The dataset is obtained from [kaggle][https://www.kaggle.com/arjunbhasin2013/ccdata]. K-Means clustering is employed. PCA and Autoencoders are also used for dimensionality reduction. This is an unsupervised learning problem. The features are explained in detail inside the notebook.
+Using credit info of customer data, we attempt to cluster customers for targeted recommendations or advertisement. The dataset is obtained from [kaggle](https://www.kaggle.com/arjunbhasin2013/ccdata). K-Means clustering is employed. PCA and Autoencoders are also used for dimensionality reduction. This is an unsupervised learning problem. The features are explained in detail inside the notebook.
 
 ## KEY TAKEAWAYS
 
