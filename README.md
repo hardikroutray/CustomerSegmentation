@@ -12,3 +12,10 @@ Using credit info of about 9000 customers, we attempt to cluster customers for t
 
 * Autoencoder is used for dimensionality reduction of the original dataset and K-Means employed on the encoded dataset. This leads us to a reduced no. of optimal clusters. PCA is used for visualizing this on a 2-dimensional plane.
 
+### Features and their correlation
+
+<img src="correlation_matrix.png" alt="corr" width="500"/>
+
+### Clusters using PCA
+
+<img src="pca_clusters.png" alt="pca" width="500"/>
