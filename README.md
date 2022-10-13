@@ -14,8 +14,8 @@ Using credit info of about 9000 customers, we attempt to cluster customers for t
 
 ### Features and their correlation
 
-<img src="correlation_matrix.png" alt="corr" width="500"/>
+<img src="correlation_matrix.png" alt="corr" />
 
 ### Clusters using PCA
 
-<img src="pca_clusters.png" alt="pca" width="500"/>
+<img src="pca_clusters.png" alt="pca" />
